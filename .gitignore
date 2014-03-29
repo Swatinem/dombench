@@ -1,0 +1,8 @@
+node_modules
+components
+coverage
+deploy
+npm-debug.log
+*.tgz
+*.patch
+*.diff

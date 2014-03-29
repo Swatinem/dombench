@@ -1,0 +1,20 @@
+{
+  "name": "dombench",
+  "private": true,
+  "description": "benchmark for some dom manipulation stuff",
+  "version": "0.0.1",
+  "keywords": [],
+  "maintainers": [
+    "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jade": "*",
+    "stylus": "*",
+    "component": "*",
+    "jshint": "*"
+  },
+  "repository": "git://github.com/Swatinem/aram-counter.git",
+  "license": "LGPLv3"
+}

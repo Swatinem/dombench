@@ -1,0 +1,26 @@
+{
+  "name": "dombench",
+  "repo": "Swatinem/dombench",
+  "version": "0.0.1",
+  "description": "benchmark for some dom manipulation stuff",
+  "keywords": [],
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/contenders.js",
+    "lib/data.js",
+    "lib/index.js",
+    "lib/measure.js",
+    "lib/results.js",
+    "lib/contenders/angular.js",
+    "lib/contenders/custom.js",
+    "lib/contenders/react.js",
+    "lib/contenders/reactkeyed.js",
+    "lib/contenders/virtualdom.js",
+    "lib/contenders/virtualdomkeyed.js"
+  ],
+  "dependencies": {
+    "discore/closest": "*",
+    "Swatinem/virtualdom": "*"
+  },
+  "license": "LGPLv3"
+}
