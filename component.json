@@ -14,8 +14,10 @@
     "lib/contenders/angular.js",
     "lib/contenders/custom.js",
     "lib/contenders/react.js",
+    "lib/contenders/reactcached.js",
     "lib/contenders/reactkeyed.js",
     "lib/contenders/virtualdom.js",
+    "lib/contenders/virtualdomcached.js",
     "lib/contenders/virtualdomkeyed.js"
   ],
   "dependencies": {
